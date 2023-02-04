@@ -1,0 +1,106 @@
+<s> SpaceX successfully launches another Falcon 9 rocket </s>
+<s> NASA's Perseverance Rover has landed on Mars </s>
+<s> Scientists discover new exoplanet that could potentially support life </s>
+<s> Astronauts aboard the International Space Station complete spacewalk </s>
+<s> Space debris threatens safe operation of satellites </s>
+<s> China launches its first independently developed Mars mission </s>
+<s> Astronomers observe black hole devouring a star </s>
+<s> Researchers find water on a distant moon of Saturn </s>
+<s> New study suggests presence of dark matter in distant galaxy </s>
+<s> India's first lunar mission Chandrayaan-2 discovers water on the moon </s>
+<s> Private companies compete to be the first to send tourists to space </s>
+<s> Space debris removal technology under development to address growing issue </s>
+<s> Massive sunspot detected on the surface of the sun </s>
+<s> Study shows that asteroids may have brought water to Earth </s>
+<s> Japan launches satellite to collect data on space environment </s>
+<s> Researchers discover new type of supernova </s>
+<s> Commercial space flight industry experiences rapid growth </s>
+<s> Mysterious radio signals detected from deep space </s>
+<s> Scientists create first successful hydrogen-based propulsion system for spacecraft </s>
+<s> China announces plans for permanent moon base </s>
+<s> Scientists find evidence of past microbial life on Mars </s>
+<s> Space telescope captures stunning image of distant galaxy </s>
+<s> NASA's Artemis program aims to return humans to the moon by 2024 </s>
+<s> Studies suggest the presence of a ninth planet in our solar system </s>
+<s> International Space Station gets upgraded with new modules </s>
+<s> Discovery of a new star system raises questions about the formation of planets </s>
+<s> Development of space-based solar power systems gathers pace </s>
+<s> Mysterious object found orbiting a black hole </s>
+<s> Scientists successfully simulate the conditions of a black hole in a lab </s>
+<s> Space debris causes concern for future space missions </s>
+<s> New evidence shows that the universe is expanding at an accelerating rate </s>
+<s> Plans for space mining of valuable minerals announced </s>
+<s> Scientists make progress in developing a sustainable food source for long space missions </s>
+<s> Mysterious fast radio bursts detected from deep space </s>
+<s> Researchers discover new method for detecting potentially habitable exoplanets </s>
+<s> Progress made in developing reusable space vehicles </s>
+<s> Space debris has created a dangerous environment for satellites and spacecraft </s>
+<s> Scientists find evidence of past lakes on Mars </s>
+<s> Discovery of massive rogue planet raises questions about planetary formation </s>
+<s> Researchers make advancements in developing a warp drive for spacecraft </s>
+<s> Space missions to study the sun and its effects on Earth increase in number </s>
+<s> Private companies race to build first commercial space station </s>
+<s> SpaceX launches Falcon 9 rocket with 60 Starlink satellites </s>
+<s> NASA announces plans for the Artemis program to return to the Moon </s>
+<s> The International Space Station conducts experiments on the effects of microgravity </s>
+<s> Scientists discover new exoplanet with potential to support life </s>
+<s> The Hubble Space Telescope captures stunning images of distant galaxies </s>
+<s> China successfully lands spacecraft on the far side of the Moon </s>
+<s> The James Webb Space Telescope set to launch in 2021 </s>
+<s> Astronauts complete historic all-female spacewalk </s>
+<s> The Parker Solar Probe mission discovers new information about the Sun </s>
+<s> Russian cosmonauts set new record for longest continuous time in space </s>
+<s> Scientists study cosmic rays and dark matter on the ISS </s>
+<s> The Juno spacecraft captures close-up images of Jupiter </s>
+<s> Scientists discover strange and potentially habitable exoplanet </s>
+<s> The Chandra X-Ray Observatory provides insight into black holes and other celestial objects </s>
+<s> Blue Origin tests reusable spacecraft for future missions </s>
+<s> The New Horizons spacecraft sends back images of Ultima Thule, a Kuiper Belt object </s>
+<s> The TESS mission discovers new exoplanet in the habitable zone of its star </s>
+<s> The Space Shuttle program ends after 135 missions </s>
+<s> India becomes fourth country to successfully land spacecraft on the Moon </s>
+<s> Scientists study the formation and evolution of stars and planets </s>
+<s> The Rosetta spacecraft lands on a comet for the first time in history </s>
+<s> The first privately-funded spacecraft reaches orbit </s>
+<s> The OSIRIS-REx spacecraft begins its mission to study the asteroid Bennu </s>
+<s> The Kepler space telescope discovers thousands of exoplanets in its mission </s>
+<s> SpaceX tests reusable rockets with successful landing </s>
+<s> The Spitzer Space Telescope observes distant stars and galaxies </s>
+<s> The MESSENGER spacecraft provides new information about Mercury </s>
+<s> The Viking missions are the first to successfully land spacecraft on Mars </s>
+<s> The Cassini spacecraft ends its mission studying Saturn and its moons </s>
+<s> The Lunar Reconnaissance Orbiter captures detailed images of the Moon's surface </s>
+<s> Scientists study the solar wind and space weather on the ISS </s>
+<s> The GRAIL mission maps the interior structure of the Moon </s>
+<s> The Dawn spacecraft studies the dwarf planet Ceres and the asteroid Vesta </s>
+<s> The Deep Impact mission releases an impactor to study a comet's interior </s>
+<s> The SOHO spacecraft observes the Sun and its effects on the solar system </s>
+<s> The Hubble Space Telescope captures first ever image of a planet being born </s>
+<s> The LRO mission provides new information about the history and resources of the Moon </s>
+<s> The Fermi Gamma-Ray Space Telescope observes high-energy phenomena in the universe </s>
+<s> The COBE mission maps the cosmic microwave background radiation </s>
+<s> The Orion Nebula is one of the brightest and most recognizable star formations in the night sky </s>
+<s> Mars is known as the Red Planet due to its reddish appearance in the night sky </s>
+<s> NASA's Juno mission has revealed that Jupiter's Great Red Spot is shrinking </s>
+<s> Astronomers have discovered a planet orbiting a star located just 11 light-years from Earth </s>
+<s> The Hubble Space Telescope has captured images of distant galaxies and helped unlock many secrets of the universe </s>
+<s> A new study suggests that water could exist in liquid form on the surface of Saturn's moon Enceladus </s>
+<s> The International Space Station is a collaborative effort between multiple countries to study and conduct research in space </s>
+<s> A recent discovery of an exoplanet called Proxima b has reignited interest in the search for extraterrestrial life </s>
+<s> The moon is Earth's only natural satellite and has a significant impact on ocean tides and other aspects of life on Earth </s>
+<s> The Chandra X-ray Observatory is a powerful tool used by astronomers to study high-energy phenomena in space </s>
+<s> The Parker Solar Probe is a NASA mission to study the sun up close and understand its influence on the solar system </s>
+<s> The Large Hadron Collider is the world's largest and most powerful particle accelerator used to study the basic building blocks of matter </s>
+<s> The European Space Agency's Rosetta spacecraft made history by landing a probe on a comet for the first time ever </s>
+<s> A recent study suggests that there could be over 100 billion planets in the Milky Way galaxy alone </s>
+<s> The Perseverance Rover is set to land on Mars in 2021 to search for signs of ancient microbial life and collect rock samples for future study </s>
+<s> Astronomers have discovered a distant galaxy with a black hole that is 12 billion times more massive than the sun </s>
+<s> The Kepler Space Telescope has discovered thousands of exoplanets and helped astronomers better understand the frequency of Earth-like planets in the galaxy </s>
+<s> The James Webb Space Telescope will be launched in 2021 and will be the largest and most powerful space telescope ever built </s>
+<s> The Andromeda Galaxy is the closest galaxy to the Milky Way and is estimated to contain over 1 trillion stars </s>
+<s> Scientists have discovered a potentially habitable exoplanet orbiting a star in the constellation Cygnus </s>
+<s> The New Horizons spacecraft made a historic flyby of the dwarf planet Pluto in 2015 and revealed new information about the small world </s>
+<s> The Apollo missions in the 1960s and 1970s were the first human missions to the moon and helped advance our understanding of the solar system </s>
+<s> The Moon landing in 1969 was a pivotal moment in human history and marked the first time humans had set foot on another celestial body </s>
+<s> The Cosmic Background Explorer (COBE) satellite was launched in 1989 and provided new insights into the structure and evolution of the universe </s>
+<s> The Voyager 1 and 2 spacecraft have explored the outer </s>
